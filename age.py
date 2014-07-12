@@ -1,4 +1,4 @@
-list=[1,2,,3]
+list=[1,2,3]
 def sum_list(name):
  resultat=0
  for e in list:
